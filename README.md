@@ -63,24 +63,37 @@
 <div align="center" style="margin: 20px 0;">
 
   <h3>Backend</h3>
-  <div style="display: inline-block; margin: 10px 0;">
-    <img alt="Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" style="margin: 5px;">
-    <img alt="SQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg" style="margin: 5px;">
-    <img alt="SQL Server" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" style="margin: 5px;">
-  </div>
-  
-  <h3>Frontend</h3>
-  <div style="display: inline-block; margin: 10px 0;">
-    <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="margin: 5px;">
-    <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="margin: 5px;">
-    <img alt="Angular" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" style="margin: 5px;">
-    <img alt="Vue" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" style="margin: 5px;">
-  </div>
+<div>
+  <img alt="NestJS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+  &nbsp;&nbsp;&nbsp;
+  <img alt="Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  &nbsp;&nbsp;&nbsp;
+  <img alt="SQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
+  &nbsp;&nbsp;&nbsp;
+  <img alt="SQL Server" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
+  &nbsp;&nbsp;&nbsp;
+  <img alt="PostgreSQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+</div>
+ 
+<h3>Frontend</h3>
+<div>
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  &nbsp;&nbsp;&nbsp;
+  <img alt="TypeScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  &nbsp;&nbsp;&nbsp;
+  <img alt="Angular" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
+  &nbsp;&nbsp;&nbsp;
+  <img alt="Vue" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+</div>
 
-  <h3>Cloud & DevOps</h3>
-  <div style="display: inline-block; margin: 10px 0;">
-    <img alt="Azure" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" style="margin: 5px;">
-  </div>
+<h3>Cloud & DevOps</h3>
+<div>
+  <img alt="Azure" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg">
+  &nbsp;&nbsp;&nbsp;
+  <img alt="Docker" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  &nbsp;&nbsp;&nbsp;
+  <img alt="Nginx" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
+</div>
 
 </div>
 
