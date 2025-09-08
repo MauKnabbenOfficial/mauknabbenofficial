@@ -64,9 +64,9 @@
 
   <h3>Backend</h3>
 <div>
-  <img alt="NestJS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-  &nbsp;&nbsp;&nbsp;
   <img alt="Csharp" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  &nbsp;&nbsp;&nbsp;
+  <img alt="NestJS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
   &nbsp;&nbsp;&nbsp;
   <img alt="SQL" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azuresqldatabase/azuresqldatabase-original.svg">
   &nbsp;&nbsp;&nbsp;
